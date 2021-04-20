@@ -1,0 +1,31 @@
+<html><head>
+  <meta charset="UTF-8">
+  <style type="text/css">
+    div {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(84vh - 100px);
+  color: white;
+    }
+  </style>
+</head><body>
+  <div id="birds1"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+  <script src="./dist/vanta.birds.min.js"></script>
+  <script type="text/javascript">
+    VANTA.BIRDS({
+      el: "#birds1",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color1: 0x2dff
+    })
+  </script>
+  <div id="birds1" style="width: 600px; height: 360px;"></div>
+</body></html>
