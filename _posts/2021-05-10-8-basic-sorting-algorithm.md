@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 8 basic sorting algorithm
-subheading: sorting algorithm
-author: Austyn Park
+title:  Basic sorting algorithm
+subtitle: 8 sorting algorithm
 categories: algorithm
 tags: [algorithm] [sorting]
 ---
