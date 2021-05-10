@@ -126,7 +126,7 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
    - archives.html
    - categories.html
    - tags.html
-   - about.md
+   - about.html
 
 # Page default value
 # defaults:
