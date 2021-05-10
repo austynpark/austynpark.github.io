@@ -29,11 +29,11 @@ email: austyn.park@gmail.com
 author: austynpark
 copyright: Copyright © 2021
 description: >- # this means to ignore newlines until "baseurl:"
-  austyn park's portfolio, projects and study memos.
+  austyn park's portfolio, projects and posts.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://austynpark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+favicon: "assets/images/favicon.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -121,12 +121,12 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+ header_pages:
+   - index.html
+   - archives.html
+   - categories.html
+   - tags.html
+   - about.md
 
 # Page default value
 # defaults:
