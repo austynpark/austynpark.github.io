@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  Basic sorting algorithm
-subtitle: 8 sorting algorithm
+title: Basic sorting algorithm
+subtitle: This is basic 8 sorting algorithm
 categories: algorithm
-tags: [algorithm] [sorting]
+tags: [algorithm]
 ---
 
 There are various kinds of algorithm for sorting. So what do we use most and why?
 
-## Bubble Sort
+### Bubble Sort
 
-Code
 ```java
     public static void bubbleSort(int[] nums) {
         for (int i = 0; i < nums.length - 1; ++i) {
@@ -26,7 +25,7 @@ Code
     }
 ```
 
-## Selection Sort
+### Selection Sort
 |: average :||: worst :||: memory :||: stability :|
 |:----------||---------||----------||-------------|
 |:  $n^2$  :||: $n^2$ :||: O(1) :||: X :|
@@ -40,7 +39,6 @@ Code
 * because the algorithm is all about selecting minimum value, it is called **selection sort**
 * selecting maximum value has same implementation but to start from `n` to `0`
 
-Code
 ```java
 	public static void selectionSort(int[] nums) {
 		for(int i = 0; i < nums.length; ++i) {
@@ -62,7 +60,7 @@ Code
 	}
 ```
 
-## Insertion Sort
+### Insertion Sort
 * one of the simple sorting algorithm
 * little bit harder than bubble, selection sort
 * iterate the array and repeat the following process
