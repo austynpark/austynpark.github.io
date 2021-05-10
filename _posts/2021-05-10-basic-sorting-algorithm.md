@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic sorting algorithm
+title: 8 Basic sorting algorithm
 subtitle: This is basic 8 sorting algorithm
 categories: algorithm
 tags: [algorithm]
