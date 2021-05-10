@@ -3,7 +3,7 @@ layout: post
 title: 8 Basic sorting algorithm
 subtitle: This is basic 8 sorting algorithm
 categories: algorithm
-tags: [algorithm]
+tags: [algorithm] [sorting]
 ---
 
 There are various kinds of algorithm for sorting. So what do we use most and why?
