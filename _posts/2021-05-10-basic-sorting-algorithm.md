@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 8 Basic sorting algorithm
-subtitle: This is basic 8 sorting algorithm
+title: Eight basic sorting algorithm
+subtitle: sorting algorithm
 categories: algorithm
 tags: [algorithm, sort]
 ---
@@ -26,18 +26,18 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 ```
 
 ### Selection Sort
-|: average :||: worst :||: memory :||: stability :|
-|:----------||---------||----------||-------------|
-|:  $n^2$  :||: $n^2$ :||: O(1) :||: X :|
+| Average | worst | memory | stability |
+|---------|-------|--------|-----------|
+| $n^2$   | $n^2$ | O(1)   | X         |
 
-* one of the simple sorting algorithm
-* iterate the array and repeat the following process 
-	+ start from `0`, find the minimum value and swap with element `0`
-	+ start from `1`, find the minimum value and swap with element `1`
-	+ start from `2`, find the minimum value and swap with element `2` 
-	+ repeat until `n - 1` element...
-* because the algorithm is all about selecting minimum value, it is called **selection sort**
-* selecting maximum value has same implementation but to start from `n` to `0`
+* One of the simple sorting algorithm
+* Iterate the array and repeat the following process 
+	+ Start from `0`, find the minimum value and swap with element `0`
+	+ Start from `1`, find the minimum value and swap with element `1`
+	+ Start from `2`, find the minimum value and swap with element `2` 
+	+ Repeat until `n - 1` element...
+* Since the selction algorithm is all about selecting minimum value (or maximum), it is called **selection sort**
+* Also can be implemented by selecting maximum value and to start from `n` to `0`
 
 ```java
 	public static void selectionSort(int[] nums) {
@@ -61,7 +61,25 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 ```
 
 ### Insertion Sort
-* one of the simple sorting algorithm
-* little bit harder than bubble, selection sort
-* iterate the array and repeat the following process
-	+
+* One of the simple sorting algorithm
+* Little bit harder than bubble, selection sort
+* Iterate the array and repeat the following process
+	+ Select a current element
+	+ Compare with visited elements and decide where to insert to maintain sort
+
+### Quick Sort
+* Most Common Sorting algorithms in the field
+	+ It is the fastest sort in general
+* Divide & Conquer algorithm
+	+ visits all of the elements
+* Divide the array by the pivot
+	+ standard of dividing is the pivot value (bigger or smaller)
+	+ repeats the process recursively
+	+ everytime that recursive process gets deeper, selects new pivot value
+
+
+### Merge Sort
+* Divide Input array to half recursively and make an array with one element
+
+### Heap Sort
+ 
