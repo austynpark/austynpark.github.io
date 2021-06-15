@@ -27,9 +27,9 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 
 ### Selection Sort
 
-|  Average |   worst  | memory | stability |
-|:--------:|:--------:|:------:|:---------:|
-| N $$^{2}$$ | N $$^{2}$$ |  O(1)  |     X     |
+|  Average  |   worst   | memory | stability |
+|:---------:|:---------:|:------:|:---------:|
+| $$N^{2}$$ | $$N^{2}$$ |  O(1)  |     X     |
 
 * One of the simple sorting algorithm
 * Iterate the array and repeat the following process 
