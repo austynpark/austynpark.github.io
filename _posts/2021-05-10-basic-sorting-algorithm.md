@@ -27,7 +27,7 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 
 ### Selection Sort
 | Average | worst | memory | stability |
-|---------|-------|--------|-----------|
+|:-------:|:-----:|-:-----:|:---------:|
 | $n^2$   | $n^2$ | O(1)   | X         |
 
 * One of the simple sorting algorithm
