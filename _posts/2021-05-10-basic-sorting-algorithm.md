@@ -29,7 +29,7 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 
 |  Average  |   worst   | memory | stability |
 |:---------:|:---------:|:------:|:---------:|
-| $$N^{2}$$ | $$N^{2}$$ |  O(1)  |     X     |
+| MC1H-PBE $$^b$$  | $$N^{2}$$ |  O(1)  |     X     |
 
 * One of the simple sorting algorithm
 * Iterate the array and repeat the following process 
