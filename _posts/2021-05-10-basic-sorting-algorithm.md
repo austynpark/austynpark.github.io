@@ -29,7 +29,7 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 
 | Average | worst | memory | stability |
 | :-----: | :---: | :----: | :-------: |
-| $$n^2 $$   | $$n^2 $$ | O(1)   | X         |
+| $$N^2 $$   | $$N^2 $$ | O(1)   | X         |
 
 | Stage | Direct Products | ATP Yields |
 | ----: | --------------: | ---------: |
