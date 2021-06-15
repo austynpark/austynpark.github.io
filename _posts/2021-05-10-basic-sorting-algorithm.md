@@ -27,20 +27,9 @@ There are various kinds of algorithm for sorting. So what do we use most and why
 
 ### Selection Sort
 
-| Average | worst | memory | stability |
-| :-----: | :---: | :----: | :-------: |
-| $$N^2 $$   | $$N^2 $$ | O(1)   | X         |
-
-| Stage | Direct Products | ATP Yields |
-| ----: | --------------: | ---------: |
-|Glycolysis | 2 ATP                   ||
-|^^         | 2 NADH      | 3--5 ATP   |
-|Pyruvaye oxidation | 2 NADH | 5 ATP   |
-|Citric acid cycle  | 2 ATP           ||
-|^^                 | 6 NADH | 15 ATP  |
-|^^                 | 2 FADH | 3 ATP   |
-| 30--32 ATP                         |||
-
+|  Average |   worst  | memory | stability |
+|:--------:|:--------:|:------:|:---------:|
+| N $$^2$$ | N $$^2$$ |  O(1)  |     X     |
 
 * One of the simple sorting algorithm
 * Iterate the array and repeat the following process 
