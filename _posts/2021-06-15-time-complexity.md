@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Eight basic sorting algorithm
-subtitle: sorting algorithm
+title: Time complexity
+subtitle: Order of time complexity
 categories: algorithm
 tags: [algorithm, sort]
 ---
