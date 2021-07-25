@@ -155,7 +155,7 @@ Validation test
 ```java
 
 ```
-https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+<https://en.wikipedia.org/wiki/Cyclic_redundancy_check>
 
 ### Cryptographic hash function
 ---
