@@ -124,8 +124,8 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 header_pages:
   - index.html
   - projects.html
-  - archives.html
-  - categories.html
+#  - archives.html
+#  - categories.html
 #  - tags.html
   - about.md
 
