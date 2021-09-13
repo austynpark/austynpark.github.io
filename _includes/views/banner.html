@@ -21,7 +21,7 @@
 {% if banner %}
   <section class="page-banner">
     <div class="page-banner-img">
-        <div id="birds1"></div>
+      <div style="background-image: url({{ banner | relative_url }})"></div>
     </div>
     <div class="wrapper">
       <div class="page-banner-inner">
@@ -46,20 +46,5 @@
       </div>
     </div>
   </section>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="/assets/images/banners/dist/vanta.birds.min.js"></script>
-  <script type="text/javascript">
-    VANTA.BIRDS({
-      el: "#birds1",
-      mouseControls: true,
-      touchControls: true,
-      gyroControls: false,
-      minHeight: 200.00,
-      minWidth: 200.00,
-      scale: 1.00,
-      scaleMobile: 1.00,
-      color1: 0x2dff
-    })
-  </script>
 {%- endif -%}
 
