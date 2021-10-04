@@ -12,4 +12,4 @@ thumbnail: "/assets/images/bulletpaint.png"
 
 - Main Contributions : Menu, Sound (FMOD), File I/O for Level Loading, Core Mechanics
 
-![](//www.youtube.com/watch?v=lKN-u31bLU8)
+<iframe width="790" height="444" src="https://www.youtube.com/embed/lKN-u31bLU8" frameborder="0" allowfullscreen></iframe>
