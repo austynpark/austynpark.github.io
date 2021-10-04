@@ -157,10 +157,6 @@ header_pages:
 # Build settings
 # highlighter: none
 markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
 kmarkdown:
   input: GFM
 
