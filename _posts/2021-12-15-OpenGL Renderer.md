@@ -4,7 +4,7 @@ title: OpenGL Renderer
 subtitle: OpenGL Graphics Renderer
 categories: Graphics Project
 tags: [C++, Rendering Engine, OpenGL, 3D]
-thumbnail: "https://www.youtube.com/embed/W0tpeApuX6k"
+thumbnail: "/assets/images/OG.png"
 ---
 
 ## OpenGL Renderer
