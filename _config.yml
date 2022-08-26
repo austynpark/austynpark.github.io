@@ -126,7 +126,7 @@ header_pages:
   - projects.html
 #  - archives.html
 #  - categories.html
-#  - tags.html
+  - tags.html
   - about.md
 
 # Page default value
