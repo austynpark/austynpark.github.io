@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grocery Gauntlet - Team of 16
+title: Grocery Gauntlet - Team of 26
 subtitle: 3D Local Party Game
 categories: UE4 Game Project
 tags: [C++, UE4, Local Multiplayer, 3D]
@@ -23,6 +23,5 @@ You and your friends can pick from four different players and compete against ea
 - Bonus Point System
 - Game Objects ( moving shopping cart / item spawner )
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1rhOzVvrIo4" frameborder="0" allowfullscreen></iframe>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/m45AgI3aRbU" frameborder="0" allowfullscreen></iframe>
-
-
