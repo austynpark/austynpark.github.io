@@ -17,7 +17,13 @@ You and your friends can pick from four different players and compete against ea
 - MAIN CHALLENGES: Avoid obstacles, sabotage other players before they can sabotage you, buy as much as possible!
 
 ### I worked on
-- Split Screen Controller
+- Implemented core mechanics in a scoring system and rank system in c++ to encourage player interaction as a party game
+- Built controller managing system supporting multiplayer and camera movement for a smooth user experience
+- Developed two different game modes such as a Grand-Prix mode, to give players more entertainment
+- Co-worked with artists and designers to create an art & animation pipeline, which helped to improve the overall game and
+development performance
+- Gameplay / Camera programming
+- Split Screen Controller / Managing game controller
 - Character Selection Menu
 - Grand prix and Versus Gamemodes
 - Bonus Point System
