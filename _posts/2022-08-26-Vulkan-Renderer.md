@@ -16,6 +16,9 @@ thumbnail: "/assets/images/ouroboros_screenshot.jpg"
 - PBR with/without texture
 - Asset/Shader reload
 
+<img src="/assets/images/vulkan_renderer_result.png"
+     alt="Rendering Scene"
+     style="float: left; margin-right: 10px;" />
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z8Fgf065Ayk" frameborder="0" allowfullscreen></iframe>
 
 
