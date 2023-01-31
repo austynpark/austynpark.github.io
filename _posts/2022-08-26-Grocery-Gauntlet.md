@@ -3,7 +3,7 @@ layout: post
 title: Grocery Gauntlet - Team of 26
 subtitle: 3D Local Party Game
 categories: UE4 Game Project
-tags: [C++, UE4, Local Multiplayer, 3D]
+tags: [C++, Blueprint, UE4, Local Multiplayer, 3D]
 thumbnail: "/assets/images/grocery-gauntlet.jpg"
 ---
  
