@@ -22,7 +22,7 @@ thumbnail: "/assets/images/ouroboros_screenshot.jpg"
 	 height="315"
      alt="Rendering Scene"
      style="float: left; margin-right: 10px;">
-</center>
+</div>
 
 <br>
 <br>
