@@ -17,11 +17,11 @@ thumbnail: "/assets/images/ouroboros_screenshot.jpg"
 - Asset/Shader reload
 
 <div style="text-align: center">
-<img src="/assets/images/vulkan_renderer_result.png"
-	 width="420"
-	 height="315"
-     alt="Rendering Scene"
-     style="float: left; margin-right: 10px;">
+	<img src="/assets/images/vulkan_renderer_result.png"
+	 	width="420"
+	 	height="315"
+     	alt="Rendering Scene"
+    >
 </div>
 
 <br>
