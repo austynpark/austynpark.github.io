@@ -18,14 +18,14 @@ thumbnail: "/assets/images/ouroboros_screenshot.jpg"
 
 <div style="text-align: center">
 	<img src="/assets/images/vulkan_renderer_result.png"
-	 	width="420"
-	 	height="315"
+	 	width="800"
+	 	height="450"
      	alt="Rendering Scene">
 </div>
 
 <br>
 <br>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Z8Fgf065Ayk" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Z8Fgf065Ayk" frameborder="0" allowfullscreen></iframe>
 
 

@@ -40,6 +40,6 @@ To debug scene, I used a [logarithmic scale](https://en.wikipedia.org/wiki/Logar
 <br>
 <br>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OpTEyCmxMXs" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/OpTEyCmxMXs" frameborder="0" allowfullscreen></iframe>
 
 

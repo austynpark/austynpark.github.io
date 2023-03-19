@@ -17,4 +17,4 @@ thumbnail: "/assets/images/OG.png"
 - Reflect / Refract implemented in shader
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/W0tpeApuX6k" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/W0tpeApuX6k" frameborder="0" allowfullscreen></iframe>
