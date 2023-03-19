@@ -4,7 +4,7 @@ title: Tiled Deferred Rendering
 subtitle: The Forge
 categories: Graphics Project
 tags: [C++, TheForge Engine, Vulkan, DirectX12, 3D, FSL]
-thumbnail: "/assets/images/ouroboros_screenshot.jpg"
+thumbnail: "/assets/images/TiledDeferredScene.png"
 ---
  
 ## Tiled Deferred Rendering
