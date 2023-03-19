@@ -29,5 +29,5 @@ development performance
 - Bonus Point System
 - Game Objects ( moving shopping cart / item spawner )
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1rhOzVvrIo4" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/m45AgI3aRbU" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/1rhOzVvrIo4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/m45AgI3aRbU" frameborder="0" allowfullscreen></iframe>
