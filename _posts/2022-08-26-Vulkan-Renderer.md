@@ -9,19 +9,18 @@ thumbnail: "/assets/images/ouroboros_screenshot.jpg"
  
 ## Vulkan Renderer
 
-- Uniform Variable Read/Write on runtime
-- Skeltal animation, Inverse kinematic, VQS transformation, and bezier curves for path-following animation
-- Deferred Shading + Screen space reflection (SSR) + Shadow
-- Basic Lighting with multiple light (Phong / Blinn Phong)
+- Deferred Rendering / Screen Space Reflection / Shadow mapping
 - PBR with/without texture
-- Asset/Shader reload
+- Skeltal animation, Inverse kinematic, VQS transformation, and bezier curves for path-following animation
+- Uniform Variable Read/Write on runtime for debuggin purpose (Textures are also available)
+- Vulkan API object are wrapped into class and struct
+- Asset / Shader reload
 
 <div style="text-align: center">
 	<img src="/assets/images/vulkan_renderer_result.png"
 	 	width="420"
 	 	height="315"
-     	alt="Rendering Scene"
-    >
+     	alt="Rendering Scene">
 </div>
 
 <br>
