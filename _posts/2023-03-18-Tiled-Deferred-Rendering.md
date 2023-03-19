@@ -17,8 +17,8 @@ thumbnail: "/assets/images/TiledDeferredScene.png"
 
 <div style="text-align: center">
 	<img src="/assets/images/TiledDeferredScene.png"
-	 	width="420"
-	 	height="315"
+	 	width="1280"
+	 	height="720"
      	alt="4096 Light scene">
 </div>
 <p style="text-align: center;">
@@ -29,8 +29,8 @@ To debug scene, I used a [logarithmic scale](https://en.wikipedia.org/wiki/Logar
 
 <div style="text-align: center">
 	<img src="/assets/images/TiledDeferredDebug.png"
-	 	width="420"
-	 	height="315"
+	 	width="1280"
+	 	height="720"
      	alt="4096 Light Debug Scene">
 </div>
 <p style="text-align: center;">
