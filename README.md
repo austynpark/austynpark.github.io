@@ -1,4 +1,4 @@
-<h1>Austyn Park Website</h1>
+<h1>Kyungook 'Austyn' Park Website</h1>
 
 https://austynpark.github.io
 
