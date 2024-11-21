@@ -7,7 +7,6 @@ tags: [C++, UE5, Lyra]
 ---
  
 ## Lyra Game 분석 
-- [Implemented with The Forge engine](https://github.com/ConfettiFX/The-Forge)
 
 # 1.InitGame()
 - Call HandleMatchAssignmentIfNotExpectingOne() next frame
