@@ -4,6 +4,7 @@ title: 1. Lyra Experience Load
 subtitle: Lyra
 categories: Unreal Engine 5
 tags: [C++, UE5, Lyra]
+thumbnail: "/assets/images/Lyra_Featured.png"
 ---
  
 ## Lyra Game 분석 
