@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Austyn Park
+title: Kyungook Park
 email: austyn.park@gmail.com
-author: austynpark
+author: kyungook Park(austynpark)
 copyright: Copyright © 2021
 description: >- # this means to ignore newlines until "baseurl:"
   austyn park's portfolio, projects and posts.
